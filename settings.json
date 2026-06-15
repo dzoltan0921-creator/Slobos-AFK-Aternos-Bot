@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rabbitfish.aternos.host:25318",
+    "ip": "rabbitfish.aternos.host",
     "port": 25318,
     "version": "",
     "try-creative": false
