@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MrReaysa.aternos.me:25318",
+    "ip": "MrReaysa.aternos.me",
     "port": 25318,
     "version": "",
     "try-creative": false
